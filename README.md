@@ -10,11 +10,11 @@ FFmpeg is a powerful and versatile open-source multimedia framework that provide
 
 <https://ffmpeg.org/>
 
-The project needs your cookies from Bilibili to download particularly if you are a VIP and want to download videos only VIPs can watch. Please add your cookies to the code here:
+The project needs your cookies from Bilibili to download. Please add your cookies to the code here:
 
 `"Cookie": "Your cookies"`
 
-Cookies sometimes need to be updated. If you find the code unable to download VIP videos, please update coookies.
+Cookies sometimes need to be updated. If you find the code unable to download some videos, please update coookies.
 
 The code can be run only in terminal by using
 
@@ -28,6 +28,4 @@ For example:
 
 During the downloading, video.mp4 and audio.mp3 will appear. Please leave them alone and they will be deleted automatically after the final video is done. The final video is named as "{the title of the video}.mp4" and saved at the same path as main.py. 
 
-Code is written by well-being.
-
-Copyright ?well-being, All Rights Reserved.
+Code is only used for learning and communication instead of commercial purposes. If you've found any problems please feel free to contact me.
